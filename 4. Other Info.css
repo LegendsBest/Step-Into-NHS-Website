@@ -1,0 +1,28 @@
+.OT{
+  font-weight: 200;
+  font-size: 40px;
+}
+.Sub{
+font-size: 22.5px;
+}
+.Li{
+  font-size: 19px;
+}
+.Sub1{
+  font-size: 25px;
+}
+.CQ a{
+  background-color: #005eb8;
+  color: white;
+  padding: 14px 16px;
+  font-size: 17px;
+  text-align: center;
+}
+.CQ{
+  margin-top: 50px;
+  margin-bottom: 45px;
+}
+.Links{
+  font-size: 17px;
+  color: #005eb8;
+}
